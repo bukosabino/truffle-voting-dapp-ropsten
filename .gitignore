@@ -7,7 +7,6 @@ yarn.lock
 package-lock.json
 dependencies
 *.log
-/build
 .truffle-solidity-loader
 
 ## Solidity
