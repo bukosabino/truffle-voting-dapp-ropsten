@@ -1,5 +1,5 @@
 {
-  "name": "voting-dapp",
+  "name": "voting-dapp-ropsten",
   "version": "0.0.1",
   "description": "",
   "main": "truffle.js",
@@ -7,8 +7,9 @@
     "test": "test"
   },
   "scripts": {
+    "start": "npm run test",
     "dev": "lite-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "lite-server"
   },
   "author": "",
   "license": "",
@@ -16,6 +17,7 @@
     "lite-server": "^2.3.0"
   },
   "dependencies": {
-    "truffle": "^4.0.6"
+    "truffle": "^4.0.6",
+    "truffle-hdwallet-provider": "0.0.3"
   }
 }
