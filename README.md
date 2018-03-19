@@ -21,7 +21,7 @@ You need to pay attention to configure MetaMask and make sure you have enough et
   * var infura_apikey = "you need to register in Infura for an Access Token.";
   * var mnemonic = "< twelve words you can find in metamask/settings/reveal seed words >";
   * var address = "ropsten address with ether";
-* truffle migrate --reset --network ropsten
+* truffle migrate --network ropsten
   * Note: If you receive an error Error: Exceeds block gas limit, you may need to manually set the gas limit for your contract. See the Truffle Configuration documentation for details.
 * npm run test
 
