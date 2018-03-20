@@ -25,7 +25,7 @@ module.exports = {
       },
       network_id: 3,
       from: address,
-      gas: 4699712
+      gas: 4700388
     }
   }
 };
