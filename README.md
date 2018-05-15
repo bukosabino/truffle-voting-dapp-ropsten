@@ -1,8 +1,10 @@
-# Voting example dapp on Truffle Framework.
+# Voting example DApp on Truffle Framework.
 
-This is a dapp example on Ethereum Ropsten testnet using Truffle Framework. It is deployed in Heroku: https://voting-dapp-ropsten.herokuapp.com
+This is a DApp example on Ethereum Ropsten testnet using Truffle Framework. It is deployed in Heroku: https://voting-dapp-ropsten.herokuapp.com
 
-We develop a dapp where the users can create proposals and vote them. Of course, they can vote once per proposal with the options in support, against or absence.
+We develop a DApp where the users can create proposals and vote them. Of course, they can vote once per proposal with the options in support, against or absence.
+
+You can read more about this [tutorial in Spanish language](https://medium.com/@bukosabino/desarrollo-de-una-dapp-sobre-la-red-ethereum-1a4665c3856a)
 
 # Preconditions to development
 
@@ -42,6 +44,10 @@ You need to pay attention to configure MetaMask and make sure you have enough et
   * Note: If you receive an error Error: Exceeds block gas limit, you may need to manually set the gas limit for your contract. See the Truffle Configuration documentation for details.
 * npm run test
 
+# TODO:
+
+* Init and end dates to proposals.
+* Anonymous users.
 
 # Credits:
 
