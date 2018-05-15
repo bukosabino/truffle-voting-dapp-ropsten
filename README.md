@@ -4,7 +4,7 @@ This is a DApp example on Ethereum Ropsten testnet using Truffle Framework. It i
 
 We develop a DApp where the users can create proposals and vote them. Of course, they can vote once per proposal with the options in support, against or absence.
 
-You can read more about this [tutorial in Spanish language](https://medium.com/@bukosabino/desarrollo-de-una-dapp-sobre-la-red-ethereum-1a4665c3856a)
+[For Spanish speaking readers, you can read more about this tutorial](https://medium.com/@bukosabino/desarrollo-de-una-dapp-sobre-la-red-ethereum-1a4665c3856a).
 
 # Preconditions to development
 
